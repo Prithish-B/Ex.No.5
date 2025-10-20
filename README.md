@@ -34,5 +34,6 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
+[EXPERIMENT 5.pdf](https://github.com/user-attachments/files/23001883/EXPERIMENT.5.pdf)
 
 # RESULT: The prompt for the above said problem executed successfully
